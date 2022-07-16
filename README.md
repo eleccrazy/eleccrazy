@@ -1,4 +1,3 @@
-![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg)
 <h1 align="center">Hi 👋, I'm Gizachew Bayness</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
