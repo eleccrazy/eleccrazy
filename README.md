@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/eleccrazy" target="blank"><img src="https://img.shields.io/twitter/follow/eleccrazy?logo=twitter&style=for-the-badge" alt="eleccrazy" /></a> </p>
 
-- 🌱 I’m currently learning full-stack JavaScript development at Udacity
+- 🌱 I’m currently learning ALX-Holberton's 12-month software engineering BootCamp (Backend Specialization)
 
 - 💬 Ask me about **C, Python, and Linux**
 
