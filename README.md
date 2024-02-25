@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gizachew Bayness</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">A Passionate Software Engineer (Back-end Developer).</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eleccrazy&label=Profile%20views&color=0e75b6&style=flat" alt="eleccrazy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eleccrazy" target="blank"><img src="https://img.shields.io/twitter/follow/eleccrazy?logo=twitter&style=for-the-badge" alt="eleccrazy" /></a> </p>
 
-- 🌱 I’m currently learning ALX-Holberton's 12-month software engineering BootCamp (Backend Specialization)
+- 🌱 I’m currently learning AI
 
-- 💬 Ask me about **C, Python, and Linux**
+- 💬 Ask me about **NodeJS, Python, Linux, and C**
 
 - 📫 Contact me via: **eleccrazy24@gmail.com**
 
